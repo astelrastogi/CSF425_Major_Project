@@ -15,7 +15,7 @@ Here, we have used VAE as a generative model
 1. Go to Kaggle
 2. Then, Accounts
 3. Then, Create new API Token
-4. Upload the downloaded kaggle.json file to the colab notebook
+4. Upload the downloaded kaggle.json file to the notebook
 
 ## Contributors:
 
