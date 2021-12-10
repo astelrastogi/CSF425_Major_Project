@@ -17,3 +17,8 @@ To create a generative model (either a GAN or a VAE) that would generate an audi
 
 ## Contributors:
 
+Harsha Vishak : 2019A7PS0079G
+
+[Aastha Rastogi](https://github.com/astelrastogi) : 2019A7PS0175G
+
+[Athreya Krishnan](https://github.com/athu15) : 2018B4A70809G
