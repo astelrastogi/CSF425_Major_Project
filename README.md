@@ -19,7 +19,7 @@ Here, we have used VAE as a generative model
 
 ## Contributors:
 
-Harsha Vishak : 2019A7PS0079G
+[Harsha Vishak](https://github.com/harshaVishak) : 2019A7PS0079G
 
 [Aastha Rastogi](https://github.com/astelrastogi) : 2019A7PS0175G
 
